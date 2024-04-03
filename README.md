@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a technology lover who has just entered this world.<br>I'm currently studying and focusing on Front-end development, <br>but I intend to become a Full-Stack.
+I am a technology lover who has just entered this world.<br>I'm currently studying and focusing on Linux Systems.
 
 
 ## 🌐 Socials:
