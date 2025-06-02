@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a technology lover who has just entered this world.<br>I'm currently studying and focusing on Linux Systems.
+I am a technology lover who has just entered this world.<br>Trying to become a Data Analyst someday.
 
 
 ## 🌐 Socials:
